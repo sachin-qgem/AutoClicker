@@ -55,7 +55,7 @@ public class AutoClickService extends AccessibilityService {
                 Logger.log(this, "No 'Start Tour' button found - sending click attempt anyway");
                 // Simulate click at approximate button location if known (optional)
             }
-            root.recycle();
+
         }
     }
 
