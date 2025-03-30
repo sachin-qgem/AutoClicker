@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AutoClicker</string>
+    <string name="app_name">Autoclicker</string>
+    <string name="accessibility_service_description">Scans and interacts with Fleetlery app UI</string>
 </resources>
